@@ -1,4 +1,4 @@
-Version 1.5. Changelog:
+Version 2. Changelog:
 
 >Update by Ehsan Kamboh
 >Save Media Files direct to your sd card
