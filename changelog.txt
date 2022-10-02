@@ -3,7 +3,6 @@ Version 2. Changelog:
 >Update by Ehsan Kamboh
 >Save Media Files direct to your sd card
 >You can customize the layout of the youtube
->Update From The Hanan Mods Original Server
 >Short To Gallery Super Exclusive
 >Fixed Package issues in Android 12 Devices
 >Added Short Video Comments Copy
