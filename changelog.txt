@@ -1,14 +1,7 @@
-Version 2. Changelog:
+Version 4. Changelog:
 
 >Update by Ehsan Kamboh
->Save Media Files direct to your sd card
->You can customize the layout of the youtube
->Short To Gallery Super Exclusive
->Fixed Package issues in Android 12 Devices
->Added Short Video Comments Copy
->Added Dislike Button
->Added Download Settings
->Added SponsorBlock Settings
->Base Update 
->Bugs Fixed
->Thanks for using YOUTUBE ULTRA
+>Bug Fixes
+>DOWNLOAD MP3 Files
+>Download And Play up to 2k on a local Android mobile
+>Try to download app from 3hsan.com
