@@ -1,4 +1,4 @@
-Version 2. Changelog:
+Version 1. Changelog:
 
 >Update by Ehsan Kamboh
 >Bug Fixes
